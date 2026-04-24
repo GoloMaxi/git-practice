@@ -1,1 +1,2 @@
-print("alert module")
+def send_alert():
+    print("alert sent")
